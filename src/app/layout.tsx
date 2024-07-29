@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   metadataBase: new URL("https://minimaltweet.vercel.app"),
   title: "Minimal Tweet Layout",
-  description: "Minimal Tweet Layout built with Tailwind CSS",
+  description: "Minimal Tweet Layout powered by Emplode",
   creator: "shouryamaanjain",
   keywords: [
     "tweet ui",
@@ -26,13 +26,13 @@ export const metadata: Metadata = {
     "tailwind css layout",
   ],
   openGraph: {
-    title: "Minimal Tweet layout built with Tailwind CSS",
+    title: "Minimal Tweet layout powered by Emplode",
     type: "website",
     url: "https://minimaltweet.vercel.app/",
     images: [
       {
         url: "https://minimaltweet.vercel.app/opengraph-image.png",
-        alt: "Minimal Tweet Layout built with Tailwind CSS",
+        alt: "Minimal Tweet Layout powered by Emplode",
       },
     ],
   },
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     images: [
       {
         url: "https://minimaltweet.vercel.app/opengraph-image.png",
-        alt: "Minimal Tweet Layout built with Tailwind CSS",
+        alt: "Minimal Tweet Layout powered by Emplode",
       },
     ],
   },
