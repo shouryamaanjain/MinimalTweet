@@ -2,7 +2,7 @@
   <img src="https://minimaltweet.vercel.app/opengraph-image.png" alt="Minimal Tweet Layout" />
 </a>
 
-Minimal Tweet Layout built with [TailwindCSS](https://tailwindcss.com/).
+Minimal Tweet Layout powered by [Emplode](https://emplodeai.com/).
 
 ## Props
 
