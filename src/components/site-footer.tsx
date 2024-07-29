@@ -11,14 +11,14 @@ export function SiteFooter() {
         >
           Shouryamaan Jain
         </a>
-        . Connect with me on{" "}
+        . Powered by{" "}
         <a
-          href={"https://x.com/shouryamaanjain"}
+          href={"https://emplodeai.com"}
           target="_blank"
           rel="noreferrer"
           className="font-medium underline underline-offset-4"
         >
-          Twitter
+          Emplode
         </a>
         .
       </p>
